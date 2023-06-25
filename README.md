@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reisegun,
 - 👀 I’m interested in Software development and Project Management
-- 🌱 I’m currently learning Project Management.
+- 🌱 I’m a Project Manager.
 - 💞️ I’m looking to collaborate on Project Management and Software developement
 - 📫 How to reach me ... segunoolaleye@gmail.com
 
