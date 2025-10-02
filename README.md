@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Reisegun,
-- 👀 I’m interested in Software development and Project Management
-- 🌱 I’m a Project Manager.
-- 💞️ I’m looking to collaborate on Project Management and Software developement
+- 👋 Hi, I’m @OlaleyeOluwasegun,
+- 👀 I’m interested in Virtual Assistant and Cybersecurity
+- 🌱 I’m a Virtual Assistant.
+- 💞️ I’m looking to collaborate on Virtual Assistant and Cybersecurity
 - 📫 How to reach me ... segunoolaleye@gmail.com
 
 <!---
